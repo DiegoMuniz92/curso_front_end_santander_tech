@@ -1,0 +1,11 @@
+Elementos semânticos
+
+    header -> Cabeçalho da página.
+    main -> Conteúdo principal.
+    footer -> Rodapé de uma página.
+    nav -> Barra de navegação superior.
+    aside -> barra lateral de conteúdo, que pode estar dentro ou fora do main.
+    section -> Tag para separar os conteúdos dentro da section.
+    article -> Utilizado para criar uma artigo reutilizavel, podendo se utilizar dentro do mesmo as tags header, main e footer.
+    figure -> utilizado para encapsular uma ou várias imagens.
+    figcaption -> É a legenda de uma imagem.
