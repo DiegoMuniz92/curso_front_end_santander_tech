@@ -9,3 +9,5 @@ Elementos semânticos
     article -> Utilizado para criar uma artigo reutilizavel, podendo se utilizar dentro do mesmo as tags header, main e footer.
     figure -> utilizado para encapsular uma ou várias imagens.
     figcaption -> É a legenda de uma imagem.
+
+    Trabalhando com Tabelas
