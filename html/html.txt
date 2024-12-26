@@ -11,3 +11,8 @@ Elementos semânticos
     figcaption -> É a legenda de uma imagem.
 
     Trabalhando com Tabelas
+        table -> tag de iniciação de uma tabela.
+        thead -> tag de cabeçalho de uma tabela.
+        tr -> tag de inicição de uma linha.
+        th -> tag para inserir valores dentro de uma thead.
+        td -> tag para inserir valores dentro de uma body.
