@@ -16,3 +16,8 @@ Elementos semânticos
         tr -> tag de inicição de uma linha.
         th -> tag para inserir valores dentro de uma thead.
         td -> tag para inserir valores dentro de uma body.
+        rowspan -> mesclagem de linhas.
+        colspan -> mesclagem de colunas.
+
+    Fomulário    
+        form -> tag de iniciação de um formulário.    
