@@ -21,3 +21,10 @@ Elementos semânticos
 
     Fomulário    
         form -> tag de iniciação de um formulário.    
+        label -> inserir texto dentro de um formulario.
+        input -> tag para inserir caixa de texto, números e outros tipos.
+        id -> esse atributo no formulário server para ligar o label ao input.
+        placeholder -> texto inserido dentro do input.
+        value -> atributo que pode inserir um valor padrao dentro de um input.
+        name -> atributo que vai identificar pelo javascript e pelo banco de dados.
+        textarea -> cria uma caixa de texto.

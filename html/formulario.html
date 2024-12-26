@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios em HTML</title>
+</head>
+<body>
+    <main>
+        <h1>Formulário</h1>
+        <hr>
+        <br>
+        <form action="">
+            <div>
+                <label for="nome">Nome:</label>
+                <input type="text" name="nome" id="nome" placeholder="insira seu nome">
+            </div>
+
+            <div>
+                <label for="datanascimento">Data de Nascimento: </label>
+                <input type="date" name="datanascimento" id="datanascimento">
+            </div>
+
+            <div>
+                <label for="telefone">Telefone: </label>
+                <input type="number" name="telefone" id="telefone">
+            </div>
+
+            <br>
+            <textarea name="bio" id="bio" cols="20" rows="10"></textarea>
+    
+            <div>
+                <label for="senha">Senha:</label>
+                <input type="password" name="senha" id="senha">
+            </div>
+            <br>
+            <input type="reset" value="Limpar">
+            <input type="submit" value="Enviar">
+        </form>
+    </main>
+</body>
+</html>
