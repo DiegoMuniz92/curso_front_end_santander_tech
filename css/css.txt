@@ -1,0 +1,6 @@
+Principais propriedades
+
+    color -> altera a cor do texto.
+    background-color -> altera a cor de fundo.
+    font-size -> altera o tamanho do texto.
+    font-weight -> altera o peso das letras.
