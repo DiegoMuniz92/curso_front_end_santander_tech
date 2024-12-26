@@ -4,3 +4,14 @@ Principais propriedades
     background-color -> altera a cor de fundo.
     font-size -> altera o tamanho do texto.
     font-weight -> altera o peso das letras.
+    background-size -> propriedade para ajustar uma imagem.
+        cover -> a imagem sera ajustada dentro da caixa disponível.
+        contain -> a imagem ira repetir a imagem dentro da caixa.
+    background-repeat -> propriedade para ajustar a repetição de uma imagem dentro de uma caixa.
+    background-position -> defini a posição da imagem dentro da caixa.
+    background-attachment -> deixa imagem fixa dando um efeito paralax.
+    font-style -> adicionar estilo a fonte.
+    text-decoration -> adiciona itens a fonte.
+    text-transform -> transformar toda as palavra em maiusculas ou minusculas.
+    text-align -> ajuste de posicionamento do texto.
+    text-ident -> adiciona um recuo a primeira linha.
