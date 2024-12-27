@@ -15,10 +15,23 @@ Principais propriedades
     text-transform -> transformar toda as palavra em maiusculas ou minusculas.
     text-align -> ajuste de posicionamento do texto.
     text-ident -> adiciona um recuo a primeira linha.
+    list-disc -> altera o icone do marcador da lista.
+    margin -> cria uma espaço na parte externa da caixa.
+    padding -> cria um espaço interno das bordas da caixa.
+    border-radius -> deixa as bordas arredondadas.
+    box-sizing -> ajusta o padding para respeitar os tamanhos de width e height.
 
     PseudoClasses
         :visited -> altera as propriedades de um link.
         :hover -> altera as propriedade ao passar o mouse po cima.
+        :first-child -> altera apenas o primeiro elemento ou linha de uma tabela.
+        :nth-child (n +2) -> apartir de uma condição será realizada a alteração. 
 
     Tabelas
         border-collapse -> altera a visibilidade das bordas das celulas.
+
+    Display
+        block -> ocupa toda a linha.
+        inline -> não ocupa toda a linha porem não respeita as limitações de width e height.
+        inline-block -> não ocupa toda a linha e respeita as limitações de width e height.
+        none -> retira o item da tela.

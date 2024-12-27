@@ -14,11 +14,21 @@ body {
 
 table, td, th {
     border: 1px solid black;
+    padding: 10px;
 }
 
 table {
     font-size: 2.4rem;
     border-collapse: collapse;
+}
+
+table tr:first-child {
+    background-color: steelblue;
+    color: white;
+}
+
+table tr:nth-child(2n +3) {
+    background-color: #555;
 }
 
 h1 {
@@ -39,4 +49,7 @@ h1 {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+}
+ul, ol {
+    padding-left: 2.4rem;
 }
