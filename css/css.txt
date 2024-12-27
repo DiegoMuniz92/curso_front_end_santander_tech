@@ -15,3 +15,10 @@ Principais propriedades
     text-transform -> transformar toda as palavra em maiusculas ou minusculas.
     text-align -> ajuste de posicionamento do texto.
     text-ident -> adiciona um recuo a primeira linha.
+
+    PseudoClasses
+        :visited -> altera as propriedades de um link.
+        :hover -> altera as propriedade ao passar o mouse po cima.
+
+    Tabelas
+        border-collapse -> altera a visibilidade das bordas das celulas.

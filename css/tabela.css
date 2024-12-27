@@ -4,6 +4,23 @@
     box-sizing: border-box;
 }
 
+:root {
+    font-size: 62.5%;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.8rem
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    font-size: 2.4rem;
+    border-collapse: collapse;
+}
+
 h1 {
     color: blue;
     text-decoration: underline;
@@ -22,8 +39,4 @@ h1 {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-}
-
-p {
-    text-indent: 40px;
 }
