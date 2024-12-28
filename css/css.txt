@@ -68,3 +68,8 @@ Principais propriedades
         transition -> é uma propriedade que permite definir a transição entre dois estados de um elemento, de forma mais suave e não brusca.
         animation -> propriedade que permite animar outras propriedades CSS, como a largura, a altura e a cor de fundo de um elemento HTML.
         animation-direction -> define se uma animação deve ser reproduzida para frente, para trás ou em ciclos alternados.
+
+    Grid (bidirecional) -> trabalhando com linhas e colunas.
+        justify-content -> trabalha com o eixo X.
+        align-itens, content -> trabalha com o eixo Y.
+        grid-template-columns -> divide o template em quantas colunas necessitar e definem seu peso.

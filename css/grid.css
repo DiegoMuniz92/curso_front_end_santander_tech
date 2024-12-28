@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.boxes {
+    height: calc(100vh);
+    position: relative;
+
+    display: grid;
+    gap: 2rem 5rem;
+    justify-content: flex-start;
+
+    grid-template-columns: 3fr repeat(2, 1fr);
+    /* grid-template-rows: 1px 2fr; */
+}
+
+.box {
+    width: 100%;
+    background-color: blue;
+    color: white;
+    border: 10px solid red;
+    display: inline-block;
+    border-radius: 1.0rem;
+    font-size: 4rem;
+}
+
+.box p, button {
+    font-size: 4rem;
+    text-align: center;
+    margin: auto;
+}
