@@ -34,7 +34,7 @@ Principais propriedades
         block -> ocupa toda a linha.
         inline -> não ocupa toda a linha porem não respeita as limitações de width e height.
         inline-block -> não ocupa toda a linha e respeita as limitações de width e height.
-        none -> retira o item da tela.
+        none -> retira o item da tela e desocupa o espaço em tela.
 
     position
         absolute -> a caixa para de ocupar espaço em tela é como se a caixa ficasse sobre as dimenções de width e height podendo se utilizar top, bottom, left e right.
@@ -60,3 +60,11 @@ Principais propriedades
 
     Media Queres
         @media scree and (min-width: px) and (max-width: px) {} -> declaração de uma media queres.
+
+    Animações
+        visibility: hidden -> oculta a caixa porém ainda continua ocupando o espaça em tela.
+        opacity (0.0 até 1) -> modifica a opacidade de uma caixa.
+        transform -> permite fazer zoom, dar perspectivas ou rodar elementos.
+        transition -> é uma propriedade que permite definir a transição entre dois estados de um elemento, de forma mais suave e não brusca.
+        animation -> propriedade que permite animar outras propriedades CSS, como a largura, a altura e a cor de fundo de um elemento HTML.
+        animation-direction -> define se uma animação deve ser reproduzida para frente, para trás ou em ciclos alternados.
