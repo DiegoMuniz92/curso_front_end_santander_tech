@@ -52,3 +52,11 @@ Principais propriedades
         justify-content -> que alinha os elementos de um container flexível ao longo do eixo principal.
         gap -> define o espaçamento entre as linhas e colunas de um layout em grid, flexbox ou multi-colunas.
         order -> serve para ordenar os itens na tela.
+
+    Seletores
+        id -> seletor que pertence a uma única caixa.
+        class -> seletor que pode ser aplicado a varias caixas.
+        [data-compan=""] -> seletor customizado criado pelo usuário.
+
+    Media Queres
+        @media scree and (min-width: px) and (max-width: px) {} -> declaração de uma media queres.
