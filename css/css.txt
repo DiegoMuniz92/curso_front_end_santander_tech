@@ -35,3 +35,9 @@ Principais propriedades
         inline -> não ocupa toda a linha porem não respeita as limitações de width e height.
         inline-block -> não ocupa toda a linha e respeita as limitações de width e height.
         none -> retira o item da tela.
+
+    position
+        absolute -> a caixa para de ocupar espaço em tela é como se a caixa ficasse sobre as dimenções de width e height podendo se utilizar top, bottom, left e right.
+        relative -> as caixas filhas ficaram relativas a caixa pai, trabalhando apenas com top e bottom.
+        fixed -> a caixa fica fixa.
+        sticky -> funciona como a posição relativa porem ao atigir o valor determinado no top o mesmo se torna fixed.

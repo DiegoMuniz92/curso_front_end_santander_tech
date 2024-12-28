@@ -53,3 +53,22 @@ h1 {
 ul, ol {
     padding-left: 2.4rem;
 }
+
+.box {
+    width: 20rem;
+    height: 10rem;
+    margin: 1.5rem;
+    padding: 1.5rem;
+    background-color: blue;
+    color: white;
+    border: 10px solid red;
+    display: inline-block;
+    border-radius: 1.0rem;
+
+}
+
+.contact-list h2 {
+    position: sticky;
+    background-color: limegreen;
+    top: 0px;
+}
