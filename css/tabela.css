@@ -64,7 +64,7 @@ ul, ol {
     border: 10px solid red;
     display: inline-block;
     border-radius: 1.0rem;
-
+    font-size: 4rem;
 }
 
 .contact-list h2 {

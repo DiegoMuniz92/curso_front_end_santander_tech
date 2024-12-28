@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.boxes {
+    height: 100vh;
+    position: relative;
+
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    
+}
+
+.box {
+    min-width: 20rem;
+    min-height: 10rem;
+    padding: 1.5rem;
+    background-color: blue;
+    color: white;
+    border: 10px solid red;
+    display: inline-block;
+    border-radius: 1.0rem;
+    font-size: 4rem;
+    flex-basis: 10%;
+}

@@ -41,3 +41,14 @@ Principais propriedades
         relative -> as caixas filhas ficaram relativas a caixa pai, trabalhando apenas com top e bottom.
         fixed -> a caixa fica fixa.
         sticky -> funciona como a posição relativa porem ao atigir o valor determinado no top o mesmo se torna fixed.
+
+    flexbox
+        flex-direction -> alteramos o alinhamento para em linha ou coluna.
+        flex-wrap -> altera a quebra de linha.
+        flex-flow -> shorthand que junta o flex-wrap e o direction.
+        justify-content -> alinha os itens apartir do eixo do flex-direction.
+        align-items -> controla o alinhamento vertical dos itens dentro de sua propria area.
+        align-content -> controla o alinhamento vertical dos itens em relação a area disponível no container.
+        justify-content -> que alinha os elementos de um container flexível ao longo do eixo principal.
+        gap -> define o espaçamento entre as linhas e colunas de um layout em grid, flexbox ou multi-colunas.
+        order -> serve para ordenar os itens na tela.
